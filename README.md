@@ -1,2 +1,2 @@
 # LP7Fastcc
-Some modifications on fastcc code of FASTCORE
+Some modifications on LP7 code of FASTCORE to work more efficiently than the original fastcc.
